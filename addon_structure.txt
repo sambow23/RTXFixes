@@ -1,0 +1,14 @@
+addons/
+  your_addon_name/
+    lua/
+      entities/
+        cube_editor/
+          init.lua
+          shared.lua
+          cl_init.lua
+    materials/
+      your_addon_name/
+        cube_texture.png
+    models/
+      your_addon_name/
+        cube.mdl
